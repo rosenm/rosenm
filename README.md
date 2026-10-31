@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+😊 Computational Biologist focused on genomic data and multi-omic sequencing pipelines. 
+🎓 Earned my PhD in Genetics and Genomic Sciences from the Biomedical Sciences Program at the Icahn School of Medicine at Mount Sinai.
+🔭 Currently using computational methods to understand the biological processes and genetic risk underlying Parkinson's disease.
+📫 Learn more and contact me on [Linkedin](www.linkedin.com/in/mikaela-rosen-perez)
+
 <!--
 **rosenm/rosenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
