@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- I am a Computational Biologist focused on genomic data and multi-omic sequencing analysis pipelines. 
-- 🎓 Earned my PhD in Genetics and Genomic Sciences from the Biomedical Sciences Program at the Icahn School of Medicine at Mount Sinai.
-- 🔭 Currently using computational methods to understand the biological processes and genetic risk underlying Parkinson's disease.
+- 🔭 Computational Biologist focused on genomic data and multi-omic sequencing analysis pipelines
+- 🎓 PhD in Genetics and Genomic Sciences at the Icahn School of Medicine at Mount Sinai
 - 📫 Learn more and contact me on [Linkedin](www.linkedin.com/in/mikaela-rosen-perez)
 
 <!--
